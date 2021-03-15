@@ -1,0 +1,49 @@
+/* div{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border: 10px black;
+}
+
+#div1{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: 10px black;
+}
+#div2{
+    background-color: rosybrown;
+    width: 200px;
+    height: 200px;
+    border: 10px black;
+}
+#div3{
+    background-color: silver;
+    width: 200px;
+    height: 200px;
+    border: 10px black;
+}
+
+.special{
+    margin-left: 25px;
+}
+
+.redText{
+    color: purple;
+} */
+
+.square{
+    width: 200px;
+    height: 200px;
+    border: 10px black;
+}
+#div1{
+    background-color: red;
+}
+
+#div2{
+    background-color: rosybrown;
+}
+#div3{
+    background-color: silver;
+}
